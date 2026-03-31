@@ -64,6 +64,7 @@ This project addresses these issues by analyzing vendor transactions, inventory 
 ---
 
 ## 📂 Project Structure
+```
 Retail-Vendor-Performance-Analysis/
 │
 ├── data/ # Raw datasets
@@ -76,7 +77,7 @@ Retail-Vendor-Performance-Analysis/
 ├── main.py # Pipeline entry point
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 📊 Key Metrics Computed
@@ -108,7 +109,7 @@ Retail-Vendor-Performance-Analysis/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SaLikhitha/Retail-Vendor-Performance-Analysis.git
+git clone https://github.com/nirjanadas/Retail-Vendor-Performance-Analysis.git
 cd Retail-Vendor-Performance-Analysis
 ```
 ### 2. Install Dependencies
@@ -120,9 +121,9 @@ pip install -r requirements.txt
 python main.py
 ```
 ### 4. View Outputs
--Processed results stored in /outputs
--Visualizations displayed during execution
--Open Power BI dashboard (.pbix) for interactive insights
+-**Processed results stored in /outputs**
+-**Visualizations displayed during execution**
+-**Open Power BI dashboard (.pbix) for interactive insights**
 
 
 ```bash

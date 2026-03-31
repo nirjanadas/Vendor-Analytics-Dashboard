@@ -150,3 +150,10 @@ python main.py
 - Data Visualization
 - Business Analytics & Insight Generation
 Modular Code Design
+
+---
+
+## 👤 Author
+Nirjana Das
+
+GitHub:nirjanadas

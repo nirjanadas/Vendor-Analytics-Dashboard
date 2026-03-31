@@ -121,11 +121,32 @@ pip install -r requirements.txt
 python main.py
 ```
 ### 4. View Outputs
--**Processed results stored in /outputs**
--**Visualizations displayed during execution**
--**Open Power BI dashboard (.pbix) for interactive insights**
+- Processed results stored in /outputs
+- Visualizations displayed during execution
+- Open Power BI dashboard (.pbix) for interactive insights
 
+---
 
-```bash
-git clone https://github.com/nirjanadas/Retail-Vendor-Performance-Analysis.git
-cd Retail-Vendor-Performance-Analysis
+## 🧪 Sample Output
+- Top vendors ranked by profit
+- Profit margin distribution
+- Inventory turnover insights
+
+---
+
+## 🔮 Future Enhancements
+
+- Build predictive model for vendor risk scoring
+- Automate ETL pipeline using Airflow
+- Deploy dashboard to Power BI Service / Web
+- Integrate real-time data streams
+
+---
+## 🧠 Skills Demonstrated
+
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Analytics & Insight Generation
+Modular Code Design

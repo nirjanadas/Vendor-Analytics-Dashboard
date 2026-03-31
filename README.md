@@ -64,3 +64,52 @@ This project addresses these issues by analyzing vendor transactions, inventory 
 ---
 
 ## 📂 Project Structure
+Retail-Vendor-Performance-Analysis/
+│
+├── data/ # Raw datasets
+├── notebooks/ # EDA notebooks
+├── scripts/ # Modular Python scripts
+│ ├── data_processing.py
+│ ├── analysis.py
+│ └── visualization.py
+├── outputs/ # Processed outputs
+├── main.py # Pipeline entry point
+├── requirements.txt
+└── README.md
+
+---
+
+
+---
+
+## 📊 Key Metrics Computed
+- **Total Sales per Vendor**
+- **Total Purchase Cost**
+- **Profit (Revenue − Cost)**
+- **Profit Margin (%)**
+- **Inventory Turnover Ratio**
+
+---
+
+## 📈 Key Insights
+- A small group of vendors contributes disproportionately to total revenue → **vendor dependency risk**
+- Several vendors show high margins but low sales → **growth opportunity**
+- Bulk purchasing significantly reduces per-unit cost → **procurement optimization**
+- Low inventory turnover indicates **capital inefficiency and overstocking**
+
+---
+
+## 💡 Business Impact
+- Enables data-driven vendor selection  
+- Reduces procurement costs through optimized purchasing  
+- Improves inventory planning and reduces wastage  
+- Supports strategic decision-making with measurable insights  
+
+---
+
+## ⚙️ How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/nirjanadas/Retail-Vendor-Performance-Analysis.git
+cd Retail-Vendor-Performance-Analysis

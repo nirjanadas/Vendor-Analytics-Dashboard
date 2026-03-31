@@ -79,9 +79,6 @@ Retail-Vendor-Performance-Analysis/
 
 ---
 
-
----
-
 ## 📊 Key Metrics Computed
 - **Total Sales per Vendor**
 - **Total Purchase Cost**
@@ -110,6 +107,24 @@ Retail-Vendor-Performance-Analysis/
 ## ⚙️ How to Run
 
 ### 1. Clone the Repository
+```bash
+git clone https://github.com/SaLikhitha/Retail-Vendor-Performance-Analysis.git
+cd Retail-Vendor-Performance-Analysis
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Execute the Pipeline
+```bash
+python main.py
+```
+### 4. View Outputs
+-Processed results stored in /outputs
+-Visualizations displayed during execution
+-Open Power BI dashboard (.pbix) for interactive insights
+
+
 ```bash
 git clone https://github.com/nirjanadas/Retail-Vendor-Performance-Analysis.git
 cd Retail-Vendor-Performance-Analysis
